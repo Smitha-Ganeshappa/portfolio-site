@@ -1,0 +1,12 @@
+* {
+  box-sizing: border-box; }
+
+body {
+  font-family: "Abril Fatface";
+  -webkit-font-smoothing: antialiased; }
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: "Patua One";
+  font-weight: 400; }
+
+/*# sourceMappingURL=style.css.map */
